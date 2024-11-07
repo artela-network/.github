@@ -1,12 +1,4 @@
-## Hi there 👋
 
-<!--
+Artela is an extensible L1 blockchain with parallel execution and interoperable VMs, supporting the development of modular, customizable, and high-performance dApps. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Artela's vision is to unlock the extensibility and scalability of EVM blockchains through the "EVM++ paradigm", creating a new decentralized application runtime environment that accelerates the integration of innovative technology scenarios such as AI, AW/FOCG, Security DeFi, into the crypto world.
